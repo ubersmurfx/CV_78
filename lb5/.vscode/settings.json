@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "thread": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "deque": "cpp",
+    "ratio": "cpp",
+    "*.ipp": "cpp"
+  }
+}

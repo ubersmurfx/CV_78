@@ -1,0 +1,3 @@
+/home/gerzeg/Polytech/TV/lb1/main_task/CMakeFiles/main_task.dir
+/home/gerzeg/Polytech/TV/lb1/main_task/CMakeFiles/edit_cache.dir
+/home/gerzeg/Polytech/TV/lb1/main_task/CMakeFiles/rebuild_cache.dir
